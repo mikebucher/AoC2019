@@ -25,15 +25,19 @@ namespace Day2
 
             while (i < temp.Count)
             {
+                int index1 = temp[i+1];
+                int index2 = temp[i+2];
+                int outputindex = temp[i+3];
+
                 if (temp[i] == 1)
                 {
-                    int calc = temp[temp[i + 1]] + temp[temp[i + 2]];
-                    temp[temp[i + 3]] = calc;
+                    int calc = temp[index1] + temp[index2];
+                    temp[outputindex] = calc;
                 }
                 else if (temp[i] == 2)
                 {
-                    int calc = temp[temp[i + 1]] * temp[temp[i + 2]];
-                    temp[temp[i + 3]] = calc;
+                    int calc = temp[index1] * temp[index2];
+                    temp[outputindex] = calc;
                 }
                 else if(temp[i] == 99)
                 {

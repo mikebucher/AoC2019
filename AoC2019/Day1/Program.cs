@@ -27,13 +27,10 @@ namespace Day1
                     if (fuelcalc < 0) fuelcalc = 0;
                     result += fuelcalc;
                 }
-
             }
-
 
             Console.WriteLine("Result: " + result);
             Console.ReadKey();
-
         }
     }
 }
