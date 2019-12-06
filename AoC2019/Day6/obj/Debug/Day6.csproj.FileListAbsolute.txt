@@ -1,0 +1,6 @@
+C:\Users\mikeb\source\repos\AoC2019\AoC2019\Day6\bin\Debug\Day6.exe.config
+C:\Users\mikeb\source\repos\AoC2019\AoC2019\Day6\bin\Debug\Day6.exe
+C:\Users\mikeb\source\repos\AoC2019\AoC2019\Day6\bin\Debug\Day6.pdb
+C:\Users\mikeb\source\repos\AoC2019\AoC2019\Day6\obj\Debug\Day6.csprojAssemblyReference.cache
+C:\Users\mikeb\source\repos\AoC2019\AoC2019\Day6\obj\Debug\Day6.exe
+C:\Users\mikeb\source\repos\AoC2019\AoC2019\Day6\obj\Debug\Day6.pdb
